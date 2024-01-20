@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 30px
+}
+
+.item{
+    flex: 1 1 200px;
+    margin: 20px;
+    text-align: left;
+    padding: 20px;
+    border: 2px solid green;
+    background-color: blue;
+}
+ body{
+    background-color:yellow ;
+}
